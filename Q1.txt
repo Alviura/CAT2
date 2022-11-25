@@ -1,0 +1,12 @@
+Procedural programming
+In procedural programming, the program is divided into small parts called functions.
+Procedural programming follows a top-down approach.
+There is no access specifier in procedural programming.
+Adding new data and functions is not easy.
+
+
+Object oriented programming
+In object-oriented programming, the program is divided into small parts called objects.
+Object-oriented programming follows a bottom-up approach.
+Object-oriented programming has access specifiers like private, public, protected, etc.
+Adding new data and function is easy.
